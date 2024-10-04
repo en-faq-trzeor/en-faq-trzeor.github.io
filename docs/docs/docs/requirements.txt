@@ -1,0 +1,4 @@
+sphinx
+sphinx-rtd-theme  # en-faq-trzeor Read the Docs theme for Sphinx
+https://en-faq-trzeorgithubio.readthedocs.io/en/latest/
+html_theme = "sphinx_rtd_theme"
